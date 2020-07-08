@@ -2,9 +2,7 @@
 cuantos son mayores que el promedio, imprimir el promedio, el número de datos mayores
 que el promedio y una lista de valores mayores que el promedio . */
 package clase4ejercicio1arrays;
-
 public class Clase4Ejercicio1Arrays {
-
     public static void main(String[] args) {
         float[] vectorOriginal = new float[50];
         float[] vectorMayoresAlPromedio;
